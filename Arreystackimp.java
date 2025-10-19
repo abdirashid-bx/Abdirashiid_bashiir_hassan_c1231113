@@ -47,7 +47,7 @@ public class Arreystackimp<T> {
         return position + 1;
     }
 
-    public void show() {
+    public void view(){
         if (checkEmpty()) {
             throw new EmptyStackException();
         }
