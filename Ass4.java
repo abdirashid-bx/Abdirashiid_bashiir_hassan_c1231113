@@ -10,7 +10,7 @@ public class Ass4 {
         s1.add("ee");
         s1.remove();
         s1.remove();
-        s1.show();
+        s1.view();
 
     }
 }
